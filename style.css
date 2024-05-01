@@ -10,13 +10,22 @@ body{
 }
 
 h1{
-  background-color: aquamarine;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #008cba;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 40px;
+    
+}
+ 
+p{
   color: #008cba;
-  font-size: 36px;
-  font-weight: bold;
-  text-align: center;
-  margin: 40px 0 60px 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  padding-bottom: 20px;
 }
 
 
